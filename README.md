@@ -4,4 +4,4 @@ One of exercise for my Operating systems classes.
   
 
 **O(n^2 * m) - time  
-O(n) - space**
+O(n*m) - space**
